@@ -23,7 +23,7 @@ The "bomb" itself is relatively simple. It consists of an Atmega 328, some butto
 
 In order to keep the front side looking nice, most of the connecting wires are hidden on the back side of the protoboard.
 
-<p align="center"><img src="./img/back-side.jpg" /></p>
+<p align="center"><img src="./img/back_side.jpg" /></p>
 
 
 
