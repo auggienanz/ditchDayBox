@@ -1,6 +1,6 @@
 #"Bomb" Diffusal for Caltech Ditch Day 2016
 
-!["Bomb" front](./img/ditch_day_use.jpg)
+<p align="center"><img src="./img/ditch_day_use.jpg" /></p>
 
 ##Background
 Caltech's version of senior ditch day is quite different from what you'd expect. Usually, ditch day is a day where seniors ditch their classes to go do fun things away from school. It used to be like that at Caltech, but the underclassmen started to break into seniors' rooms while they were gone to pull pranks on them (pranking is another long held Caltech tradition).
@@ -11,19 +11,19 @@ During Spring 2016, I worked with three other members of my house to create a "M
 
 Part of the stack that I created required participants to defuse a "bomb". The clues to defuse it were hidden inside concrete cinder blocks that needed to be smashed.
 
-![Smashing cinder blocks](./img/smash.jpg)
+<p align="center"><img src="./img/smash.jpg" /></p>
 
 ##The "Bomb"
 
-![Front side of "bomb"](./img/front.jpg)
+<p align="center"><img src="./img/front.jpg" /></p>
 
 The "bomb" itself is relatively simple. It consists of an Atmega 328, some buttons, some wire, and an LCD screen in a nice enclosure.
 
-![Closeup of processor](./img/arduino.jpg)
+<p align="center"><img src="./img/arduino.jpg" /></p>
 
 In order to keep the front side looking nice, most of the connecting wires are hidden on the back side of the protoboard.
 
-![Back side of protoboard](./img/back_side.jpg)
+<p align="center"><img src="./img/back-side.jpg" /></p>
 
 
 
