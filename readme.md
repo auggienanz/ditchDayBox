@@ -1,8 +1,9 @@
-#"Bomb" Diffusal for Caltech Ditch Day 2016
+# "Bomb" Diffusal for Caltech Ditch Day 2016
 
 <p align="center"><img src="./img/ditch_day_use.jpg" /></p>
 
-##Background
+## Background
+
 Caltech's version of senior ditch day is quite different from what you'd expect. Usually, ditch day is a day where seniors ditch their classes to go do fun things away from school. It used to be like that at Caltech, but the underclassmen started to break into seniors' rooms while they were gone to pull pranks on them (pranking is another long held Caltech tradition).
 
 Soon, seniors began to build physical stacks of stuff behind/in front of their doors to deter underclassmen from entering on ditch day. Over time, this evolved into seniors preparing a day of fun and challenging activities for the underclassmen to enjoy.
@@ -13,7 +14,7 @@ Part of the stack that I created required participants to defuse a "bomb". The c
 
 <p align="center"><img src="./img/smash.jpg" /></p>
 
-##The "Bomb"
+## The "Bomb"
 
 <p align="center"><img src="./img/front.jpg" /></p>
 
@@ -37,7 +38,7 @@ Parts List:
 * 4 x 3 Hole, 5mm pitch screw terminal block
   * I bought [this](https://www.amazon.com/gp/product/B00EZ3QUAM) pack
 * An Arduino
-	* I built one onto the protoboard, but something like an Arduino Pro Mini might be easier.
+  * I built one onto the protoboard, but something like an Arduino Pro Mini might be easier.
 * Power Source
-	* I used a [2 cell LiFe](http://www.hobbyking.com/hobbyking/store/__16807__ZIPPY_Flightmax_700mAh_6_6V_5C_LiFePo4_Receiver_Pack_US_Warehouse_.html) battery pack since it already had a nice 2.5mm pitch connector that I could plug directly into the power headers I put on my board, but anything ought to work.
+  * I used a [2 cell LiFe](http://www.hobbyking.com/hobbyking/store/__16807__ZIPPY_Flightmax_700mAh_6_6V_5C_LiFePo4_Receiver_Pack_US_Warehouse_.html) battery pack since it already had a nice 2.5mm pitch connector that I could plug directly into the power headers I put on my board, but anything ought to work.
 * Miscellaneous colored wire
